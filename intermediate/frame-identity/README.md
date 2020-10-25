@@ -1,2 +1,2 @@
 ## Frame Identity
-!(frame identity)[./identity_onchain.png]
+![frame identity](./identity_onchain.png)
