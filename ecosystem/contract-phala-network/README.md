@@ -4,8 +4,8 @@ Exploring how a confidential smart contract is made using @PhalaNetwork
 I hacked helloworld and wallet dapps to create credentials/logins manager dapp! using phala network confidential contract!
 
 ### Repos
-https://github.com/sekmet/phala-blockchain/tree/helloworld
-https://github.com/sekmet/apps-ng/tree/helloworld
+> https://github.com/sekmet/phala-blockchain/tree/helloworld
+> https://github.com/sekmet/apps-ng/tree/helloworld
 
 ![Credentials](./credentials_0.png)
 ![Add Credential)(./add_credential.png)
