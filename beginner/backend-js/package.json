@@ -1,0 +1,34 @@
+{
+  "name": "polkadot-backend-js",
+  "version": "0.1.0",
+  "description": "A command line utility that displays information about the latest block on Kusama, Polkadot or any other Substrate-based chain and include an option to search for a block by number (height) and/or hash",
+  "bin": {
+    "polkajs": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "polkadot-js",
+    "kusama",
+    "substrate",
+    "command-line"
+  ],
+  "author": {
+    "name": "Carlos Guimaraes",
+    "email": "sekmet@open4g.com",
+    "url": "https://www.open4g.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^2.5.1",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "minimist": "^1.2.5"
+  }
+}
