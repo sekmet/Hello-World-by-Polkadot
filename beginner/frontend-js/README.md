@@ -6,4 +6,4 @@
 
 >Displays information about the latest block on *Kusama, Polkadot or any other Substrate-based chain. Include a component to search for a block by number (height) and/or hash.
 
-SOURCE CODE: ![https://github.com/sekmet/polkadot-frontend-js](https://github.com/sekmet/polkadot-frontend-js)
+SOURCE CODE: [https://github.com/sekmet/polkadot-frontend-js](https://github.com/sekmet/polkadot-frontend-js)
