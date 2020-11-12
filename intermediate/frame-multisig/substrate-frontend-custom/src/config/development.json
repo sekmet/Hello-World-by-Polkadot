@@ -1,0 +1,12 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "Cat": {
+      "name": "Vec<u8>",
+      "specimen": "Vec<u8>",
+      "age": "u8"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
