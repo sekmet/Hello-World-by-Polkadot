@@ -1,6 +1,6 @@
 ## [BEGINNER CHALLENGES] Front-End Javascript
 
-### https://sekmet.github.io/polkadot-frontend-js/
+### LIVE VERSION: https://sekmet.github.io/polkadot-frontend-js/
 
 ![Front-End Javascript](./app_frontendjs.png)
 
